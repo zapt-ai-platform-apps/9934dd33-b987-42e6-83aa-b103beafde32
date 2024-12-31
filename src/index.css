@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Global Styles */
+body {
+  color: #333;
+  font-family: 'Inter', sans-serif;
+}
